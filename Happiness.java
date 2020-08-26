@@ -21,7 +21,7 @@ public class Happiness {
             Health += random.nextInt(100);
             Intelligence += random.nextInt(100);
             ++Age;
-            System.out.println("In your " + Age + " years, your a fucking good");
+            System.out.println("In your " + Age + " years, your a very good");
             System.out.println("You Happiness level is " + Happiness + " !!!");
             System.out.println("You Luck percent bar is " + Luck + "% !!!");
             System.out.println("You wealth level is " + Wealth + " !!!");
